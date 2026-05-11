@@ -51,7 +51,7 @@
                     <includes>*cs-CZ*.utf8</includes>
                 </mapping>
             </repository>
-            <repository type="svn" url="https://svn.capstan.be/eurograduate_2026_cs-CZ/20260303/eurograduate_2026_20260303_cs-CZ_omt">
+            <repository type="svn" url="https://github.com/capstanlqc-test/eurograduate_2026_test2_cs-CZ_omt.git">
                 <mapping local="/" repository="/"/>
             </repository>
         </repositories>

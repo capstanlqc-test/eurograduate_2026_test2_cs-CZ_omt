@@ -1,0 +1,3945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_57b1bb571" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(Large enterprise)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072444Z" creationid="cs-CZ_2" creationdate="20260507T072444Z">
+        <seg>(Velký podnik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Medium-sized enterprise)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072348Z" creationid="cs-CZ_2" creationdate="20260507T072348Z">
+        <seg>(Střední podnik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Micro enterprise)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072318Z" creationid="cs-CZ_2" creationdate="20260507T072228Z">
+        <seg>(Mikropodnik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Missing category)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073205Z" creationid="cs-CZ_2" creationdate="20260507T073205Z">
+        <seg>(Chybějící kategorie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Single person enterprise)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072140Z" creationid="cs-CZ_2" creationdate="20260507T072140Z">
+        <seg>(Živnost) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Small enterprise)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072306Z" creationid="cs-CZ_2" creationdate="20260507T072306Z">
+        <seg>(Malý podnik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 employee</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T071923Z" creationid="cs-CZ_2" creationdate="20260507T071923Z">
+        <seg>Jeden zaměstnanec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>1 měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 or 2 years</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T082308Z" creationid="cs-CZ_2" creationdate="20260507T082308Z">
+        <seg>1 nebo 2 roky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 year</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>1 rok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>10 – 49 employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072250Z" creationid="cs-CZ_2" creationdate="20260507T072250Z">
+        <seg>10 – 49 zaměstnanců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>18 years or more</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>18 let nebo více</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134721Z" creationid="cs-CZ_4" creationdate="20260506T134721Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2 months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>2 měsíce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2 – 9 employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072220Z" creationid="cs-CZ_2" creationdate="20260507T072220Z">
+        <seg>2 – 9 zaměstnanců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>24 months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134658Z" creationid="cs-CZ_4" creationdate="20260506T134658Z">
+        <seg>24 měsíců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>250 or more employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072432Z" creationid="cs-CZ_2" creationdate="20260507T072432Z">
+        <seg>250 nebo více zaměstnanců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 years or more</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T082252Z" creationid="cs-CZ_2" creationdate="20260507T082252Z">
+        <seg>3 nebo více let</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>50 – 249 employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072338Z" creationid="cs-CZ_2" creationdate="20260507T072338Z">
+        <seg>50 – 249 zaměstnanců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>60</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134725Z" creationid="cs-CZ_4" creationdate="20260506T134725Z">
+        <seg>60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Overall&lt;/g1&gt;, which of the following statements best describes your skills in relation to what is required to do your job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095640Z" creationid="veronika.kostelecka" creationdate="20260506T095640Z">
+        <seg>&lt;/g1&gt;Celkově&lt;/g1&gt;, které z následujících tvrzení nejlépe vystihuje vaše dovednosti ve vztahu k tomu, co je pro výkon vaší práce nezbytné?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A follow-up survey of &lt;g1&gt;EUROGRADUATE&lt;/g1&gt; is envisaged to better understand how study experiences of graduates contribute to their long-term development.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134622Z" creationid="cs-CZ_4" creationdate="20260506T134622Z">
+        <seg>Navazující průzkum v rámci &lt;g1&gt;EUROGRADUATE&lt;/g1&gt; má za cíl lépe pochopit, jak studijní zkušenosti absolventů/ek přispívají k jejich dlouhodobému rozvoji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI-assisted assessment</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125504Z" creationid="cs-CZ_1" creationdate="20260505T125504Z">
+        <seg>Hodnocení s využitím AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI-assisted learning</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125009Z" creationid="cs-CZ_1" creationdate="20260505T125009Z">
+        <seg>Učení s využitím AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI/LLM and machine learning - Using, integrating, evaluating, or developing AI or machine learning tools; prompting; training models; designing AI systems for applied use cases</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T124002Z" creationid="veronika.kostelecka" creationdate="20260506T102018Z">
+        <seg>Umělá inteligence (AI)/velkokapacitní jazykové modely (LLM) a strojové učení - Využívání, integrace, hodnocení nebo vývoj nástrojů umělé inteligence či strojového učení; vytváření promptů; trénování modelů; navrhování systémů umělé inteligence pro konkrétní aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actively working in a politics-related organisation or association</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110722Z" creationid="cs-CZ_4" creationdate="20260506T110722Z">
+        <seg>Aktivní působení v organizaci nebo asociaci související s politikou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advancement opportunities</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Příležitosti ke kariérnímu rozvoji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After graduation in YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Po absolvování studia v roce yyyy/yyyy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you obtained your degree in YYYY/YYYY, did you study in another higher education programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Studoval/a jste po získání titulu v roce yyyy/yyyy další vysokoškolský studijní program?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Analytical thinking – I break complex problems into parts for precise, logical solutions.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091539Z" creationid="veronika.kostelecka" creationdate="20260506T091539Z">
+        <seg>Analytické myšlení - Složité problémy rozděluji na jednotlivé části, abych mohl/a najít přesná a logická řešení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Approximately how many of your courses were offered online?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Přibližně kolik z Vašich předmětů/kurzů se nabízelo online?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>April</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Duben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you currently (still) enrolled?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121630Z" creationid="cs-CZ_1" creationdate="20260507T121513Z">
+        <seg>Nyní (stále) studujete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you currently in a committed partnership?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Jste v současné době v trvalém partnerském vztahu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you employed in the public sector?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jste zaměstnán/a ve veřejném sektoru?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you full-time employed?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jste zaměstnán/a na plný úvazek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you married to your partner or in a registered civil partnership?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Jste ženatý, vdaná nebo v registrovaném partnerství?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you self-employed?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Vykonáváte samostatnou výdělečnou činnost nebo podnikáte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Around the time of graduation in YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Přibližně v době absolvování studia v roce yyyy/yyyy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>August</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Srpen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bachelor or equivalent degree</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>bakalářské vzdělání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134740Z" creationid="cs-CZ_4" creationdate="20260506T134740Z">
+        <seg>Před rokem YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blended (online &amp; in-person)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130049Z" creationid="cs-CZ_1" creationdate="20260505T130042Z">
+        <seg>Kombinace online a osobně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Boycotting certain products/producers for political reasons (e.g. ethics, environmental issues)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111018Z" creationid="cs-CZ_4" creationdate="20260506T111018Z">
+        <seg>Bojkotování konkrétních produktů/výrobců z politických důvodů (např. etické, enviromentální problémy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COMPETENCIES</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095152Z" creationid="veronika.kostelecka" creationdate="20260506T095152Z">
+        <seg>KOMPETENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Campus newspaper</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T075548Z" creationid="cs-CZ_1" creationdate="20260505T153222Z">
+        <seg>Univerzitní časopis / newsletter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Community engagement</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153316Z" creationid="cs-CZ_1" creationdate="20260505T153316Z">
+        <seg>Komunitní aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compulsory military service, civilian or voluntary service</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T123008Z" creationid="cs-CZ_1" creationdate="20260507T123008Z">
+        <seg>Povinná vojenská služba, civilní nebo dobrovolnická služba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contacting politicians or government officials</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110543Z" creationid="cs-CZ_4" creationdate="20260506T110543Z">
+        <seg>Kontaktování politiků/ček nebo státních úředníků/ic </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continuous Learning – I actively seek to acquire new skills to adapt and grow professionally.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T094821Z" creationid="veronika.kostelecka" creationdate="20260506T094821Z">
+        <seg>Další vzdělávání se - Aktivně se snažím osvojovat si nové dovednosti, abych se dokázal/a přizpůsobovat a profesně se rozvíjet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coverage of environmental sustainability topics in my courses</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130408Z" creationid="cs-CZ_1" creationdate="20260505T130408Z">
+        <seg>Zahrnutí témat z oblasti environmentální udržitelnosti v mých kurzech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creativity – I produce original ideas through imagination and curiosity.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095131Z" creationid="veronika.kostelecka" creationdate="20260506T095131Z">
+        <seg>Kreativita - Díky své představivosti a zvídavosti přicházím s originálními nápady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cybersecurity, privacy, digital safety - Ensuring secure use and operation of digital systems; configuring security tools (firewalls, antivirus, SIEM); setting or enforcing security tools or policies</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T102023Z" creationid="veronika.kostelecka" creationdate="20260506T101706Z">
+        <seg>Kyberbezpečnost, ochrana soukromí, digitální bezpečnost - Zajišťování bezpečného používání a provozu digitálních systémů; konfigurace bezpečnostních nástrojů (firewally, antivirové programy, SIEM); nastavení nebo prosazování bezpečnostních nástrojů či zásad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data analysis, BI - Performing data modelling, statistical analysis; working with SQL, data visualisation (e.g. Power BI, Tableau)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T123751Z" creationid="veronika.kostelecka" creationdate="20260506T101336Z">
+        <seg>Analýza dat, BI - Tvorba datových modelů, statistických analýz; práce s jazykem SQL, vizualizace dat (např. Power BI, Tableau)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Prosinec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you also follow courses in a different language than the main language of instruction as part of your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Absolvoval/a jste v rámci studia některé předměty vyučované v jiném jazyce, než byl hlavní vyučovací jazyk Vašeho studijního programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you do any internships or work placements during the study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Absolvoval/a jste během studia nějakou stáž nebo praxi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you do any voluntary activities during your study programme (e.g. student union, campus newspaper, youth work, trainer in sports club, etc.)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T075536Z" creationid="cs-CZ_1" creationdate="20260505T153014Z">
+        <seg>Zapojil/a jste se během studia do nějaké dobrovolnické činnosti (např. studentské spolky, univerzitní časopis / newsletter, práce s mládeží, trenér/ka ve sportovním klubu apod.)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you engage in any paid labour (e.g. student job) during your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Vykonával/a jste během svého studia nějakou placenou práci (např. práci pro studenty)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you gain any experience abroad as part of the programme that you graduated from in YYYY/YYYY (e.g. study abroad, internship, language course, etc.)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Získal/a jste v rámci studijního programu, který jste absolvoval/a v roce yyyy/yyyy, nějakou zahraniční zkušenost (např. studium v zahraničí, stáž, jazykový kurz atd.)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you graduate from an (international) joint degree programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T122649Z" creationid="cs-CZ_1" creationdate="20260505T122649Z">
+        <seg>Absoloval/a jste tzv. společný studijní program (joint degree)? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you graduate from the study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Absolvoval/a jste úspěšně tento studijní program?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you interrupt work or study for parental leave for one or more of your children?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Přerušil/a jste někdy práci nebo studium kvůli mateřské nebo rodičovské dovolené s jedním nebo více dětmi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you obtain any credit points (ECTS) for your stay abroad that were recognized for the study programme you graduated from in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Získal/a jste za svůj pobyt v zahraničí nějaké kreditní body (ECTS), které byly uznány v rámci studijního programu, který jste absolvoval/a v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you obtain any vocational degree before you entered higher education?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Absolvoval/a jste před nástupem na vysokou školu odborné vzdělání, které nebylo zakončeno maturitní zkouškou?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Digital content creation, design, and multimedia - Creating or shaping digital materials (e.g. documents, spreadsheets, tables); UX/UI; video or audio editing; animation; 3D modelling; CAD</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T123854Z" creationid="veronika.kostelecka" creationdate="20260506T101432Z">
+        <seg>Tvorba digitálního obsahu, design a multimédia - Tvorba nebo úprava digitálních materiálů (např. dokumentů, tabulek); UX/UI; střih videa nebo zvuku; animace; 3D modelování;CAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Digital operations and process automation - Using and managing digital work environments, communication and collaboration tools (e.g. Zoom, Slack); digital marketing; e-learning creation</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T101814Z" creationid="veronika.kostelecka" creationdate="20260506T101814Z">
+        <seg>Digitální operace a automatizace procesů - Využívání a správa digitálních pracovních prostředí, komunikačních nástrojů a nástrojů pro spolupráci (např. Zoom, Slack); digitální marketing; tvorba e-learningových kurzů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do or did you study at the same higher education institution that you graduated from in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Studujete nebo jste studoval/a na stejné vysoké škole, kterou jste absolvoval/a v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you directly or indirectly supervise other members of staff?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Řídíte přímo či nepřímo další pracovníky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you have children?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Máte děti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you have more than one job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Máte více než jednu práci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you have supplementary payments such as 13th month, end of year bonuses, holiday pay …?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T091743Z" creationid="cs-CZ_2" creationdate="20260507T074808Z">
+        <seg>Dostáváte příplatky jako např. 13. plat, bonusy na konci roku, náhrada mzdy za dovolenou apod.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you work from home / remotely?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073527Z" creationid="cs-CZ_2" creationdate="20260507T073527Z">
+        <seg>Pracujete z domova / na dálku?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doctorate / PhD</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T081509Z" creationid="cs-CZ_2" creationdate="20260507T081509Z">
+        <seg>doktorské vzdělání (PhD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donating to a party or an NGO</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110609Z" creationid="cs-CZ_4" creationdate="20260506T110609Z">
+        <seg>Přispívání politické straně nebo neziskové organizaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the last 12 months, have you participated in any other learning activities – completed or on-going – with the intention to improve your job-related knowledge or skills either during your free time or your working time?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122700Z" creationid="cs-CZ_1" creationdate="20260507T122700Z">
+        <seg>Zúčastnil/a jste se v uplynulých 12 měsících nějakých dalších vzdělávacích aktivit – již ukončených nebo stále probíhajících – s cílem prohloubit si znalosti nebo dovednosti související s prací, a to buď ve volném čase, nebo v pracovní době?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EDUCATION HISTORY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T124852Z" creationid="cs-CZ_1" creationdate="20260507T124840Z">
+        <seg>VZDĚLÁVACÍ DRÁHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EU MODULE</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104525Z" creationid="cs-CZ_4" creationdate="20260506T104525Z">
+        <seg>EU MODUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Employment 1</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100209Z" creationid="cs-CZ_2" creationdate="20260507T100209Z">
+        <seg>Zaměstnání 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Employment 2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100216Z" creationid="cs-CZ_2" creationdate="20260507T100216Z">
+        <seg>Zaměstnání 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Employment 3</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100224Z" creationid="cs-CZ_2" creationdate="20260507T100224Z">
+        <seg>Zaměstnání 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T124202Z" creationid="cs-CZ_1" creationdate="20260505T124202Z">
+        <seg>Angličtina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entrepreneur / Business owner (with employees)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122821Z" creationid="cs-CZ_1" creationdate="20260507T122821Z">
+        <seg>Podnikatel/ka, majitel/ka firmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entrepreneur / business owner</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T083902Z" creationid="cs-CZ_2" creationdate="20260507T083845Z">
+        <seg>Podnikatel / majitel firmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entrepreneurial spirit – I seize opportunities and take initiative to turn ideas into action.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T094506Z" creationid="veronika.kostelecka" creationdate="20260506T094506Z">
+        <seg>Podnikatelský duch - Využívám příležitosti a projevuji iniciativu, abych proměnil/a nápady v činy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excluding employers of small and casual jobs (e.g. student assistant, freelancing activities, giving private lessons, …).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>S výjimkou zaměstnavatelů v případě drobných a příležitostných prací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excluding small and casual jobs (e.g. student assistant, freelancing activities, giving private lessons, …).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Neuvádějte drobné a příležitostné práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exposure to entrepreneurial activities (e.g. projects or seminars involving companies, mentoring by start-ups, visiting facilities)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Seznámení se s podnikatelskými aktivitami (např. projekty nebo semináře za účasti firem, mentoring ze strany start-upů, návštěva podniků)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FINAL QUESTIONS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134438Z" creationid="cs-CZ_4" creationdate="20260506T134438Z">
+        <seg>ZÁVĚREČNÉ OTÁZKY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Father or male guardian</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Otec nebo pěstoun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>February</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Únor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Final questions, acknowledgment and contact data for next round of EUROGRADUATE</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134430Z" creationid="cs-CZ_4" creationdate="20260506T134430Z">
+        <seg>Závěrečné otázky, poděkování a kontaktní údaje pro další kolo šetření EUROGRADUATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, we would like to ask a few questions about you.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Nakonec bychom Vám rádi položili několik otázek o Vaší osobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, we would like to ask you some questions on your personal life and the society at large.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104623Z" creationid="cs-CZ_4" creationdate="20260506T104623Z">
+        <seg>Na závěr bychom se vás rádi zeptali na pár otázek týkajících se vašeho osobního života a společnosti obecně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed-term / temporary employee</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132947Z" creationid="cs-CZ_2" creationdate="20260507T083739Z">
+        <seg>Zaměstnanec/zaměstnankyně na dobu určitou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For self-employed this is after deducting business expenses, but before deducting taxes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073949Z" creationid="cs-CZ_2" creationdate="20260507T073949Z">
+        <seg>U osob samostatně výdělečně činných se jedná o částku po odečtení provozních nákladů, ale před odečtením daní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the further course of the questionnaire and the evaluation of the data, it is important that you answer the question.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084710Z" creationdate="20220905T083719Z">
+        <seg>Pro další pokračování v dotazníku a vyhodnocení údajů je důležité, abyste na tuto otázku odpověděl/a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For your answer, it does not matter whether activities were conducted online, on-site, or both.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Ve Vaší odpovědi nezáleží na tom, zda se tyto činnosti prováděly online, fyzicky na místě nebo kombinací obojího.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Foreign language – I communicate in a foreign language both orally and in writing.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T092736Z" creationid="veronika.kostelecka" creationdate="20260506T092736Z">
+        <seg>Cizí jazyk - Komunikuji v cizím jazyce v mluvené i psané formě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From today’s perspective, how satisfied are you overall with the study programme that you graduated from in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jak jste z dnešního pohledu celkově spokojen/a se studijním programem, který jste absolvoval/a v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fully online</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130000Z" creationid="cs-CZ_1" creationdate="20260505T130000Z">
+        <seg>Zcela online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Further Study / PhD study / other qualification</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T123029Z" creationid="cs-CZ_1" creationdate="20260507T123029Z">
+        <seg>Další studium / Ph.D. studium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got employment without searching</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Získal/a jsem práci bez hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Group assignments</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Práce ve skupinách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you ever been unemployed (that is, not employed but seeking for employment) since graduation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Byl/a jste někdy od absolvování vysoké školy nezaměstnaný/á (tj. nebyl/a jste zaměstnán/a, ale hledal/a jste zaměstnání)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you ever had paid work since graduating in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Měl/a jste někdy placenou práci od absolvování studia v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How confident do you feel that you can recognise false and misleading online content when you encounter it (e.g. disinformation, fake news)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111124Z" creationid="cs-CZ_4" creationdate="20260506T111124Z">
+        <seg>Jak moc si věříte, že dokážete rozpoznat falešný a zavádějící obsah na internetu, když na něj narazíte (např. dezinformace, falešné zprávy)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How long did you stay?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jak dlouhý byl Váš pobyt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How long in total have you been employed since graduation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Jak dlouho jste byl/a celkem zaměstnaný/á od absolvování vysoké školy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many (main) employers have you had altogether since graduation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Kolik (hlavních) zaměstnavatelů jste měl/a celkem od absolvování vysoké školy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many hours per week do you usually work (including overtime)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Kolik hodin týdně obvykle pracujete (včetně přesčasů)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many hours per week do you usually work in your additional jobs in total (including overtime)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Kolik hodin týdně celkem obvykle pracujete ve svých dalších zaměstnáních (včetně přesčasů)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many people work in your organization in total (including all locations if applicable)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Kolik lidí pracuje ve Vaší organizaci celkem (včetně všech poboček, pokud je to relevantní)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How old is your youngest child?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Jak staré je Vaše nejmladší dítě?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How satisfied are you all in all with your current work situation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jak jste celkově spokojen/a se svou současnou pracovní situací?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How satisfied are you with your current work regarding the following aspects?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jak jste spokojen/a se svou současnou prací z následujících hledisek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How strongly do the following reasons apply to your decision to move?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103727Z" creationid="cs-CZ_4" creationdate="20260506T103727Z">
+        <seg>Do jaké míry ovlivňují následující důvody vaše rozhodnutí o stěhování?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How would you describe your current situation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jak byste popsal/a svou současnou situaci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Human activities represent the (main) cause of climate change.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111337Z" creationid="cs-CZ_4" creationdate="20260506T111302Z">
+        <seg>Lidská činnost představuje (hlavní) příčinu klimatické změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I am confident in my own ability to participate in politics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T105858Z" creationid="cs-CZ_4" creationdate="20260506T105858Z">
+        <seg>Věřím ve své schopnosti zapojit se do politického dění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I am interested in politics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104804Z" creationid="cs-CZ_4" creationdate="20260506T104804Z">
+        <seg>Zajímám se o politiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I analyse complex systems (natural, technical, social, economic or other systems) regarding their environmental sustainability or contribution to environmental sustainability.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121830Z" creationid="veronika.kostelecka" creationdate="20260506T100750Z">
+        <seg>Analyzuji komplexní systémy (přírodní, technické, sociální, ekonomické či jiné systémy) z hlediska jejich environmentální udržitelnosti nebo jejich přínosu k environmentální udržitelnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I assess facts or activities regarding their environmental sustainability.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100610Z" creationid="veronika.kostelecka" creationdate="20260506T100610Z">
+        <seg>Posuzuji fakta nebo činnosti z hlediska jejich environmentální udržitelnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I choose certain products for environmental reasons, even if they are a bit more expensive.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112351Z" creationid="cs-CZ_4" creationdate="20260506T112351Z">
+        <seg>Vybírám si určité výrobky z enviromentálních důvodů, i když jsou o něco dražší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I communicate about environmental sustainability topics with colleagues, stakeholders or the public.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T141543Z" creationid="veronika.kostelecka" creationdate="20260506T100937Z">
+        <seg>Komunikuji o tématech týkajících se udržitelnosti životního prostředí s kolegy/němi, zainteresovanými stranami/osobami nebo veřejností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I continued the job I already had during my studies (for more than 3 months)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Pokračoval/a jsem v práci, kterou jsem měl/a již během studia (po dobu delší než 3 měsíce)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I develop predictions, scenarios or visions for a more sustainable future.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100858Z" creationid="veronika.kostelecka" creationdate="20260506T100858Z">
+        <seg>Vytvářím předpovědi, scénáře nebo vize pro udržitelnější budoucnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I develop workable solutions to problems of environmental sustainability.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100813Z" creationid="veronika.kostelecka" creationdate="20260506T100813Z">
+        <seg>Vytvářím praktická řešení problémů v oblasti udržitelnosti životního prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I don’t know</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Nevím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I don’t remember</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141821Z" creationid="cs-CZ_1" creationdate="20260505T141821Z">
+        <seg>Nepamatuji si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I engage in group activities in favour of environmental protection (e.g. participate in pro-environmental group or demonstration).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112450Z" creationid="cs-CZ_4" creationdate="20260506T112450Z">
+        <seg>Zapojuji se do skupinových aktivit na podporu ochrany životního prostředí (např. účastním se aktivit ekologických skupin nebo demonstrací).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I moved because I anticipated better possibilities for higher or further qualification.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104027Z" creationid="cs-CZ_4" creationdate="20260506T104027Z">
+        <seg>Přestěhoval/a jsem se, protože jsem očekával/a lepší možnosti pro získání vyšší nebo další kvalifikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I moved because I anticipated higher income prospects.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103946Z" creationid="cs-CZ_4" creationdate="20260506T103946Z">
+        <seg>Přestěhoval/a jsem se, protože jsem očekával/a vyšší výdělek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I moved because I expected the new location to improve my quality of life.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104116Z" creationid="cs-CZ_4" creationdate="20260506T104116Z">
+        <seg>Přestěhoval/a jsem se, protože jsem očekával/a, že mi nové místo zlepší kvalitu života.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I reduce the energy I use at home (e.g. by turning the heating down or by turning off the lights when leaving a room) to protect the environment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112321Z" creationid="cs-CZ_4" creationdate="20260506T112321Z">
+        <seg>Snižuji spotřebu energie v domácnosti (např. snižuji teplotu topení nebo zhasínám světla, když odcházím z místnosti), abych chránil/a životní prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I try to take an influence on politics for the environment (e.g. by voting for pro-environmental parties, contacting politicians, signing petitions, etc.).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112600Z" creationid="cs-CZ_4" creationdate="20260506T112600Z">
+        <seg>Snažím se ovlivňovat politiku v oblasti životního prostředí (např. volím strany podporující ochranu životního prostředí, kontaktuji politiky/čky, podepisuji petice atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I worry about climate change.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111805Z" creationid="cs-CZ_4" creationdate="20260506T111805Z">
+        <seg>Mám obavy z klimatických změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED 2 or below (lower secondary or below)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T132315Z" creationid="cs-CZ_4" creationdate="20260507T132315Z">
+        <seg>Základní vzdělání nebo nižší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED 3 + 4 (upper secondary, post-secondary non-tertiary)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T132435Z" creationid="cs-CZ_4" creationdate="20260507T132435Z">
+        <seg>Střední vzdělání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED 5 + 6 + 7 (tertiary &lt;g1&gt;vocational&lt;/g1&gt;)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T132519Z" creationid="cs-CZ_4" creationdate="20260507T132519Z">
+        <seg>Vyšší odborné vzdělání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED 5 + 6 + 7 +8 (tertiary &lt;g1&gt;general&lt;/g1&gt;, i.e. higher education)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T133656Z" creationid="cs-CZ_4" creationdate="20260507T133656Z">
+        <seg>Vysokoškolské vzdělání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED level 6 (4), Bachelor’s or equivalent level, &lt;g1&gt;academic&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122046Z" creationid="cs-CZ_1" creationdate="20260507T121900Z">
+        <seg>Bakalářský (Bc., BcA. apod.), &lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED level 6(4), Bachelor’s or equivalent level, &lt;g1&gt;academic&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122036Z" creationid="cs-CZ_1" creationdate="20260505T120855Z">
+        <seg>Bakalářský (Bc., BcA. apod.), &lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED level 7(4), Master’s or equivalent level, &lt;g1&gt;academic&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121836Z" creationid="cs-CZ_1" creationdate="20260505T120908Z">
+        <seg>Magisterský (Mgr., MgA., Ing. apod.), &lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ISCED level 8(4), doctorial or equivalent level, &lt;g1&gt;academic&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121845Z" creationid="cs-CZ_1" creationdate="20260506T104954Z">
+        <seg>Doktorský (Ph.D.), &lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If yes, please make an estimation of its annual amount.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Pokud ano, odhadněte prosím jejich roční výši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you don’t remember, please make an estimation.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T145809Z" creationid="cs-CZ_2" creationdate="20260507T101614Z">
+        <seg>Pokus si nevzpomínáte, pokuste se prosím o odhad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you graduated that year from more than one programme, please provide the information for the study programme that you yourself consider the most relevant.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Pokud jste v daném roce absolvoval/a více studijních programů, uveďte prosím informace o tom, který sám/sama považujete za nejdůležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you grew up with more than one language, please select up to three languages that you feel were most relevant.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Pokud jste vyrůstal/a ve vícejazyčném prostředí, vyberte, prosím, nejvýše tři jazyky, které vnímáte jako nejdůležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you had more than three stays, please refer to those stays that you see as most relevant.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141641Z" creationid="cs-CZ_1" creationdate="20260505T141542Z">
+        <seg>Pokud jste měl/a více než tři pobyty, prosím vztahujte své odpovědi k těm pobytům, které považujete za nejdůležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you had your current job already while studying and you continued with it (for more than three months), please include it here.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pokud jste měl/a svou současnou práci již během studia a pokračoval/a jste v ní (déle než tři měsíce), uveďte ji zde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have any remaining remarks, please state them here:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T085058Z" creationdate="20220905T085058Z">
+        <seg>Pokud máte nějaké připomínky, uveďte je, prosím, zde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have more than one job or company, please refer to the job or company which you consider most important.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pokud máte více než jedno zaměstnání, podnikání nebo samostatnou výdělečnou činnost, vztahujte své odpovědi k té práci, kterou považujete za nejdůležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have multiple citizenships, please select up to three that you feel are most relevant.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Pokud máte více občanství, vyberte, prosím, nejvýše tři, která považujete za nejdůležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you received your highest school leaving qualification abroad, please select the degree of COUNTRY that comes closest to your degree.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Pokud jste získal/a toto vzdělání v zahraničí, prosím, vyberte typ vzdělání nabízený v České republice, který je Vašemu vzdělání nejbližší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you received your highest school leaving qualification abroad, please transfer your grade to the grading scheme of COUNTRY.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Pokud jste získal/a nejvyšší maturitní vzdělání v zahraničí, převeďte prosím svou známku do klasifikačního systému České republiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you received/will receive your degree abroad, please select the degree of COUNTRY that comes closest to your degree.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Pokud jste studoval/a nebo studujete v zahraničí, vyberte prosím typ studijního programu nabízeného v České republice, který je Vámi studovanému nejbližší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your occupation is not in the list, please select the one that comes closest.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Pokud Vaše povolání není v seznamu uvedeno, vyberte to, které je Vašemu nejpodobnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your organization engages in several business activities, please select the dominant one.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pokud Vaše organizace vykonává více hospodářských činností, vyberte prosím tu dominantní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your parents or guardians received their highest level of education abroad, please select the educational level of COUNTRY that comes closest to their degree.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Pokud Vaši rodiče nebo pěstouni dosáhli svého nejvyššího vzdělání v zahraničí, uveďte, prosím, stupeň vzdělání obvyklý v České republice, který je jejich vzdělání nejbližší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case you started more than two study programmes, please refer to the two most recent programmes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T140856Z" creationid="cs-CZ_1" creationdate="20260505T140856Z">
+        <seg>Pokud jste začal/a studovat více než dva studijní programy, prosím odpovídejte za dva nejpozdější programy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following you can report on up to three stays separately.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141407Z" creationid="cs-CZ_1" creationdate="20260505T134629Z">
+        <seg>Níže můžete uvádět své zkušenosti až ze tří pobytů. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following, we ask specifically about job tasks which are related to environmental sustainability, irrespective of whether this is the main focus of your work.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100213Z" creationid="veronika.kostelecka" creationdate="20260506T100213Z">
+        <seg>V následující části se ptáme konkrétně na pracovní úkoly související s environmentální udržitelností, a to bez ohledu na to, zda se jedná o hlavní zaměření vaší práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the following, we want to know more about your previous work experiences.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100050Z" creationid="cs-CZ_2" creationdate="20260507T100050Z">
+        <seg>V následující části bychom se rádi dozvěděli více o vašich předchozích pracovních zkušenostech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which country did you receive your highest school leaving qualification before you entered higher education for the first time?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T092234Z" creationid="cs-CZ_1" creationdate="20260506T092234Z">
+        <seg>Ve které zemi jste získal/a nejvyšší vzdělání (kromě VOŠ a terciární úrovně konzervatoří) předtím, než jste poprvé nastoupil/a na vysokou školu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which country did you stay?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Ve které zemi jste pobýval/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which year did you obtain your highest school leaving qualification before you entered higher education for the first time?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Ve kterém roce jste získal/a nejvyšší vzdělání (kromě VOŠ a terciární úrovně konzervatoří) předtím, než jste poprvé nastoupil/a na vysokou školu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which year did you start your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Ve kterém roce jste studium svého studijního programu zahájila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In your answer, please refer to the time &lt;g1&gt;after&lt;/g1&gt; the COVID-19 pandemic (i.e. after Spring 2022).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125947Z" creationid="cs-CZ_1" creationdate="20260505T125918Z">
+        <seg>Vaši odpověď prosím vztahujte k období &lt;g1&gt;po&lt;/g1&gt; pandemii COVID-19 (tedy od léta 2022).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In your answer, please refer to today’s borders.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112725Z" creationid="cs-CZ_4" creationdate="20260506T112725Z">
+        <seg>Ve své odpovědi se, prosím, vztahujte k dnešním hranicím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include self-employment and trainee jobs.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Uvádějte i samostatnou výdělečnou činnost, podnikání a trainee programy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include self-employment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083719Z">
+        <seg>Zahrňte i samostatnou výdělečnou činnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes self-employment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100143Z" creationid="cs-CZ_2" creationdate="20260507T100143Z">
+        <seg>Zahrňte i samostatnou výdělečnou činnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of agriculture, forestry, fisheries and veterinary.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135147Z" creationid="cs-CZ_4" creationdate="20260507T135147Z">
+        <seg>Zahrnuje obory zemědělství, lesnictví, rybářství a veterinářství.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of arts, religion and theology, history and archaeology, philosophy as well as languages and literature.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135416Z" creationid="cs-CZ_4" creationdate="20260507T135416Z">
+        <seg>Zahrnuje obory umění, náboženství a teologii, historii a archeologii, filozofii a jazyky a literaturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of biology, environment, chemistry, earth sciences, physics and mathematics and statistics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135305Z" creationid="cs-CZ_4" creationdate="20260507T135305Z">
+        <seg>Zahrnuje obory biologie, ekologie, chemie, geovědy, fyziky, matematiky a statistiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of business (incl. tourism and transport), administration and law.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135323Z" creationid="cs-CZ_4" creationdate="20260507T135323Z">
+        <seg>Zahrnuje obory podnikání (včetně cestovního ruchu a dopravy), veřejné správy a práva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of chemical, environmental, electrical, mechanical, and civil engineering as well as manufacturing and architecture.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135212Z" creationid="cs-CZ_4" creationdate="20260507T135212Z">
+        <seg>Zahrnuje obory chemického, environmentálního, elektrotechnického, strojního a stavebního inženýrství, jakož i výrobní techniku a architekturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of database and network design and software and application development.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135242Z" creationid="cs-CZ_4" creationdate="20260507T135242Z">
+        <seg>Zahrnuje obory jako návrh databází a sítí a vývoj softwaru a aplikací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of economics, political sciences, psychology, sociology &amp; cultural studies as well as journalism and information.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135353Z" creationid="cs-CZ_4" creationdate="20260507T135353Z">
+        <seg>Zahrnuje obory ekonomie, politologie, psychologie, sociologie a kulturní studia, jakož i žurnalistiku a informační vědy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of education sciences and teacher training.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135446Z" creationid="cs-CZ_4" creationdate="20260507T135446Z">
+        <seg>Zahrnuje obory pedagogika a učitelství.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields of medicine and dental studies, nursing, midwifery, medical treatment technology, therapy and rehabilitation, pharmacy, care of elderly and children as well as social work.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135057Z" creationid="cs-CZ_4" creationdate="20260507T135057Z">
+        <seg>Zahrnuje obory medicíny a zubního lékařství, ošetřovatelství, porodnictví, zdravotnické techniky, terapie a rehabilitace, farmacie, péče o seniory a děti a sociální práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Includes the study fields such as sports (excl. teacher training) and military services.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T135011Z" creationid="cs-CZ_4" creationdate="20260507T135011Z">
+        <seg>Zahrnuje obory jako sport (kromě učitelského vzdělávání) a vojenskou službu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Including current employer.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Včetně současného zaměstnavatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Including yourself if you have been self-employed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Včetně sebe, pokud jste byl/a samostatně výdělečně činný/á.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Institutional or collective housing (dormitory, student residence)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143814Z" creationid="cs-CZ_4" creationdate="20260506T143649Z">
+        <seg>Bydlím v institucionálním či kolektivním bydlení (koleje, studentská ubytovna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interdisciplinary learning activities</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Mezioborové vzdělávací aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intern / Trainee (unpaid or low paid)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122910Z" creationid="cs-CZ_1" creationdate="20260507T122848Z">
+        <seg>Praktikant, praktikantka, stážista, stážistka (bez mzdy nebo s nízkou mzdou)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intern / trainee (unpaid or low paid)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T133217Z" creationid="cs-CZ_2" creationdate="20260507T090345Z">
+        <seg>Stážist/ka / praktikant/ka (neplacený/á nebo s nízkou mzdou)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Internships, work placements (as formal part of your study programme)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Stáže, praxe (jako formální součást Vašeho studijního programu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is or was your main field of subject the same that you graduated from in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Je nebo byl Váš hlavní obor stejný jako obor, který jste absolvoval/a v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is the degree you graduated from in YYYY/YYYY the highest degree you ever obtained?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T104851Z" creationid="cs-CZ_1" creationdate="20260506T104851Z">
+        <seg>Je kvalifikace, které jste dosáhl/a v roce YYYY/YYYY vaše nejvyšší?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is this higher education institution located in COUNTRY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T123247Z" creationid="cs-CZ_1" creationdate="20260507T123247Z">
+        <seg>Nachází se tato vysoká škola v České republice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is your current job the first job you had after graduating in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Je Vaše současná práce Vaší první prací po absolvování studia v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is important to me to live in a democratically governed country.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T105930Z" creationid="cs-CZ_4" creationdate="20260506T105930Z">
+        <seg>Je pro mě důležité, žít v demokraticky řízené zemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>January</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Leden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Job contents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Náplň práce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>July</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Červenec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Červen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leadership – I guide people and processes toward shared objectives.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T094201Z" creationid="veronika.kostelecka" creationdate="20260506T094201Z">
+        <seg>Vedení - Vedu lidi a řídím procesy ke společným cílům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learning activities are courses, workshops and seminars, guided on-the-job-training or private lessons with a paid teacher or tutor.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Vzdělávacími aktivitami jsou kurzy, workshopy a semináře, řízené školení na pracovišti nebo soukromé lekce s placeným učitelem či tutorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lectures</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Přednášky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134709Z" creationid="cs-CZ_4" creationdate="20260506T134709Z">
+        <seg>Méně než 1 rok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less than 2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134717Z" creationid="cs-CZ_4" creationdate="20260506T134717Z">
+        <seg>Méně než 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less than one month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134758Z" creationid="cs-CZ_4" creationdate="20260506T134758Z">
+        <seg>Méně než jeden měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living alone</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143708Z" creationid="cs-CZ_4" creationdate="20260506T113018Z">
+        <seg>Bydlím sám/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with non-relatives / shared accommodation</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143751Z" creationid="cs-CZ_4" creationdate="20260506T113238Z">
+        <seg>Bydlím s lidmi, kteří nejsou příbuzní / ve sdíleném ubytování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with other relatives</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143745Z" creationid="cs-CZ_4" creationdate="20260506T113201Z">
+        <seg>Bydlím s dalšími příbuznými</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with parents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143714Z" creationid="cs-CZ_4" creationdate="20260506T113024Z">
+        <seg>Bydlím s rodiči</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with parents and partner</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143734Z" creationid="cs-CZ_4" creationdate="20260506T113137Z">
+        <seg>Bydlím s rodiči a dětmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with parents, partner and children</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143740Z" creationid="cs-CZ_4" creationdate="20260506T113150Z">
+        <seg>Bydlím s rodiči, partnerem/kou a dětmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with partner and children</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143728Z" creationid="cs-CZ_4" creationdate="20260506T113053Z">
+        <seg>Bydlím s partnerem/kou a dětmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Living with partner, no children</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T143720Z" creationid="cs-CZ_4" creationdate="20260506T113040Z">
+        <seg>Bydlím s partnerem/kou, bez dětí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Looking after the global environment is important to me.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111732Z" creationid="cs-CZ_4" creationdate="20260506T111732Z">
+        <seg>Péče o životní prostředí je pro mě důležitá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MOBILITY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104126Z" creationid="cs-CZ_4" creationdate="20260506T104126Z">
+        <seg>MOBILITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Březen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master or equivalent degree</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>magisterské vzdělání (Ing., Mgr. apod.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Květen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Month of birth</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Měsíc narození</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mother or female guardian</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Matka nebo pěstounka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple choice tests</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125441Z" creationid="cs-CZ_1" creationdate="20260505T125441Z">
+        <seg>Testy s možnostmi více odpovědí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple responses possible.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153200Z" creationid="cs-CZ_1" creationdate="20260505T153200Z">
+        <seg>Možnost více odpovědí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My digital skills are higher than required by my job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T124047Z" creationid="veronika.kostelecka" creationdate="20260506T102500Z">
+        <seg>Mé digitální dovednosti přesahují požadavky mé prácovní pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My digital skills are matched to what is required by my job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T102524Z" creationid="veronika.kostelecka" creationdate="20260506T102524Z">
+        <seg>Mé digitální dovednosti odpovídají požadavkům mé pracovní pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My partner or my family played an important role in influencing my decision to move.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103847Z" creationid="cs-CZ_4" creationdate="20260506T103847Z">
+        <seg>Můj/á partner/ka nebo moje rodina sehráli důležitou roli při mém rozhodnutí o stěhování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My skills are higher than required by my job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100005Z" creationid="veronika.kostelecka" creationdate="20260506T095756Z">
+        <seg>Mé dovednosti přesahují požadavky mé pracovní pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My skills are matched to what is required by my job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100011Z" creationid="veronika.kostelecka" creationdate="20260506T095821Z">
+        <seg>Mé dovednosti odpovídají požadavkům mé pracovní pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My youngest child is &lt;g1&gt;[AGE]&lt;/g1&gt; old.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T133726Z" creationid="cs-CZ_4" creationdate="20260506T133726Z">
+        <seg>Moje nejmladší dítě má&lt;g1&gt;[AGE]&lt;/g1&gt; let/roků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiation skills – I influence others strategically to align interests and reach decisions within a relevant time frame.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121406Z" creationid="veronika.kostelecka" creationdate="20260506T092952Z">
+        <seg>Vyjednávací schopnosti - Strategicky ovlivňuji ostatní, abych sjednocoval/a zájmy a dosahoval/a rozhodnutí v přiměřené časové lhůtě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not applicable / Don’t know</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T072532Z" creationid="cs-CZ_2" creationdate="20260507T072532Z">
+        <seg>Nevztahuje se / Nevím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not working, looking for a job (unemployed)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T123055Z" creationid="cs-CZ_1" creationdate="20260507T123055Z">
+        <seg>Nepracující, hledám práci (nezaměstnaný/á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not working, not looking for a job</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T123105Z" creationid="cs-CZ_1" creationdate="20260507T123105Z">
+        <seg>Nepracující, nehledám práci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Listopad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>October</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Říjen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of which country do you have a citizenship?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Jaké máte občanství?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Official language(s) of COUNTRY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T124157Z" creationid="cs-CZ_1" creationdate="20260505T124157Z">
+        <seg>Čeština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oral and written communication – I convey ideas to inform, persuade, and build understanding of a topic.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121232Z" creationid="veronika.kostelecka" creationdate="20260506T092304Z">
+        <seg>Ústní a písemná komunikace - Předávám myšlenky s cílem informovat, přesvědčit a přispět k lepšímu porozumění danému tématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oral assessments</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125408Z" creationid="cs-CZ_1" creationdate="20260505T125408Z">
+        <seg>Ústní zkoušení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125515Z" creationid="cs-CZ_1" creationdate="20260505T124214Z">
+        <seg>Jiné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERSONAL AND SOCIAL BACKGROUND</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134211Z" creationid="cs-CZ_4" creationdate="20260506T134211Z">
+        <seg>OSOBNÍ A SOCIÁLNÍ ZÁZEMÍ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parental leave / Taking care of family members</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122945Z" creationid="cs-CZ_1" creationdate="20260507T122945Z">
+        <seg>Rodičovská dovolená / péče o rodinné příslušníky </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parental leave / taking care of family members</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T090424Z" creationid="cs-CZ_2" creationdate="20260507T090424Z">
+        <seg>Rodičovská dovolená / péče o rodinné příslušníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Participating in public demonstration</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110811Z" creationid="cs-CZ_4" creationdate="20260506T110811Z">
+        <seg>Účast na veřejných demostracích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Participation in research projects</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Účast ve výzkumných projektech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Permanent employee</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122728Z" creationid="cs-CZ_2" creationdate="20260507T083606Z">
+        <seg>Stálý zaměstnanec/zaměstnankyně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Personal and social background [socio-demographic data] from graduates of YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T142129Z" creationid="cs-CZ_4" creationdate="20260506T134315Z">
+        <seg>Osobní a sociální zázemí [socio-demographic data] od absolventů/ek ak. roku YYYY/YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Personal life, society at large, political attitudes from graduates of YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T141854Z" creationid="cs-CZ_4" creationdate="20260506T104557Z">
+        <seg>Osobní život, společnost obecně, politické postoje absolventů/ek z ak. roku YYYY/YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Planning and organising – I structure tasks and resources to achieve common goals efficiently and timely.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121431Z" creationid="veronika.kostelecka" creationdate="20260506T094057Z">
+        <seg>Plánování a organizování - Organizuji úkoly a zdroje, aby bylo možné společných cílů dosáhnout efektivně a včas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please add up times of parental leave for all of your children.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Prosím, sečtěte délku své mateřské nebo rodičovské dovolené u všech svých dětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please answer the following questions referring to your current employment or self-employment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Následující otázky se týkají Vaší současné situace v zaměstnání (případně samostatné výdělečné činnosti / podnikání).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please consider &lt;g1&gt;only activities that were related to your study programme&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153151Z" creationid="cs-CZ_1" creationdate="20260505T153128Z">
+        <seg>Berte prosím v úvahu &lt;g1&gt;jen aktivity, které souvisely s vaším studijním programem&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please indicate how often you pursue the following tasks in your professional practice:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100302Z" creationid="veronika.kostelecka" creationdate="20260506T100302Z">
+        <seg>Uveďte prosím, jak často se ve své profesní praxi věnujete následujícím činnostem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please let us know how often, if at all, you engage in the following activities to improve the environment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T112201Z" creationid="cs-CZ_4" creationdate="20260506T112201Z">
+        <seg>Sdělte nám prosím, jak často, pokud vůbec, se věnujete následujícím činnostem na ochranu životního prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please let us know how often, if at all, you engage in the following activities.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110454Z" creationid="cs-CZ_4" creationdate="20260506T110454Z">
+        <seg>Prosím, sdělte nám, jak často, případně zda vůbec, se věnujete následujícím činnostem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please only consider the time after graduating in YYYY/YYYY.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T133908Z" creationid="cs-CZ_4" creationdate="20260506T133845Z">
+        <seg>Prosím, zohledněte pouze období po absolvování studia v ak. roce YYYY/YYYY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please provide us with your e-mail address to ensure that you can be contacted for further &lt;g1&gt;EUROGRADUATE&lt;/g1&gt; surveys.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T134142Z" creationid="cs-CZ_4" creationdate="20260507T134142Z">
+        <seg>Prosím, uveďte svou emailovou adresu, abychom vás mohli kontaktovat při dalších &lt;g1&gt;EUROGRADUATE&lt;/g1&gt; průzkumech.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please rate how frequently you use each of them in your current occupation.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121218Z" creationid="veronika.kostelecka" creationdate="20260506T091432Z">
+        <seg>Prosím ohodnoťte, jak často je využíváte ve svém současném povolání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to the date of your last successful examination.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Berte prosím v úvahu datum Vaší poslední úspěšné zkoušky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to the first employment as Employment 1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100203Z" creationid="cs-CZ_2" creationdate="20260507T100203Z">
+        <seg>První zaměstnání prosím označte jako Zaměstnání 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to the first period abroad as Stay 1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141732Z" creationid="cs-CZ_1" creationdate="20260505T141732Z">
+        <seg>První zahraniční pobyt prosím označte jako Pobyt 1. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to the first programme you started as Programme 1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121737Z" creationid="cs-CZ_1" creationdate="20260507T121737Z">
+        <seg>První zahájený studijní program prosím označte jako Program 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to your overall study programme, even though modes of assessment and examination may have changed during the course of the programme.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125109Z" creationid="cs-CZ_1" creationdate="20260505T125109Z">
+        <seg>Prosím vztahujte své odpovědi k celému studiu v rámci Vašeho studijního programu, i když se způsoby výuky a učení mohly v jeho průběhu měnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please refer to your overall study programme, even though modes of teaching and learning may have changed during the course of the programme.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Prosím vztahujte své odpovědi k celému studiu v rámci Vašeho studijního programu, i když se způsoby výuky a učení mohly v jeho průběhu měnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please round to full numbers.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Zaokrouhlujte prosím na celá čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select &lt;g1&gt;all&lt;/g1&gt; that apply.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T083518Z" creationid="cs-CZ_2" creationdate="20260507T083518Z">
+        <seg>Označte, prosím, &lt;g1&gt;všechny&lt;/g1&gt; odpovídající možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possibility to contribute own ideas</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Možnost přispět vlastními nápady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possibility to reconcile work with private life and family</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Možnost sladit práci se soukromým životem a rodinou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentations</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125450Z" creationid="cs-CZ_1" creationdate="20260505T125450Z">
+        <seg>Prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prior to graduation in YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Před absolvováním studia v roce yyyy/yyyy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prior to the start of the study programme that you graduated from in YYYY/YYYY, did you acquire any work experiences for at least six months without interruptions?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Získal/a jste před zahájením studijního programu, který jste absolvoval/a v roce yyyy/yyyy, nějaké pracovní zkušenosti po dobu nejméně šesti měsíců bez přerušení?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problem-solving – I find practical solutions to overcome obstacles and solve a particular problem.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091717Z" creationid="veronika.kostelecka" creationdate="20260506T091717Z">
+        <seg>Řešení problémů - Hledám praktická řešení, jak překonat překážky a vyřešit konkrétní problém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional position</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Profesní pozice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programme 1</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121741Z" creationid="cs-CZ_1" creationdate="20260507T121741Z">
+        <seg>Program 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programme 2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121745Z" creationid="cs-CZ_1" creationdate="20260507T121745Z">
+        <seg>Program 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project and/or problem-based learning</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Projektové vyučování, vlastní řešení problémů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provision of opportunities for students to engage in action on sustainability</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130520Z" creationid="cs-CZ_1" creationdate="20260505T130520Z">
+        <seg>Poskytnutí příležitostí studentům/studentkám zapojit se do aktivit v oblasti udržitelnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regional and international mobility of graduates from YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104410Z" creationid="cs-CZ_4" creationdate="20260506T104410Z">
+        <seg>Regionální a mezinárodní mobilita absolventů z ak. roku YYYY/YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research skills – I design and conduct rigorous research to produce credible, actionable findings.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095009Z" creationid="veronika.kostelecka" creationdate="20260506T095009Z">
+        <seg>Výzkumné dovednosti - Navrhuji a provádím důkladný výzkum s cílem získat spolehlivá a prakticky využitelná zjištění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Salary/revenues</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Mzda/příjmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-employed / freelancer</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T083848Z" creationid="cs-CZ_2" creationdate="20260507T083839Z">
+        <seg>Osoba samostatně výdělečně činná / na volné noze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-evaluation of competencies from graduates of YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095332Z" creationid="veronika.kostelecka" creationdate="20260506T095332Z">
+        <seg>Sebehodnocení kompetencí absolventů/ek ak. roku YYYY/YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-study</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Samostudium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seminars</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T124850Z" creationid="cs-CZ_1" creationdate="20260505T124714Z">
+        <seg>Semináře, cvičení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T083631Z">
+        <seg>Září</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sharing political posts on social media (e.g. Facebook, X&lt;x1/&gt;)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111054Z" creationid="cs-CZ_4" creationdate="20260506T111054Z">
+        <seg>Sdílení politických příspěvků na sociálních sítích (např. Facebook, X&lt;x1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signing petitions</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110730Z" creationid="cs-CZ_4" creationdate="20260506T110730Z">
+        <seg>Podepisování peticí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Single parent with children</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T113123Z" creationid="cs-CZ_4" creationdate="20260506T113123Z">
+        <seg>Samoživitel/ka s dětmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Software, automation, and technical systems - Building or maintaining technical environments; software development; version control (Git); administration of servers, networks, cloud platforms</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T123744Z" creationid="veronika.kostelecka" creationdate="20260506T101316Z">
+        <seg>Software, automatizace a technické systémy - Budování a údržba technických prostředí; vývoj softwaru; správa verzí (Git); správa serverů, sítí a cloudových platforem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of my digital skills are lower than what is required by my job and need to be further developed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T102548Z" creationid="veronika.kostelecka" creationdate="20260506T102548Z">
+        <seg>Některé mé digitální dovednosti neodpovídají požadavkům mé pracovní pozice a je nutné je dále rozvíjet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of my skills are lower than what is required by my job and need to be further developed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100103Z" creationid="veronika.kostelecka" creationdate="20260506T095959Z">
+        <seg>Některé mé dovednosti neodpovídají požadavkům mé pracovní pozice a je nutné je dále rozvíjet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stay 1</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141745Z" creationid="cs-CZ_1" creationdate="20260505T141745Z">
+        <seg>Pobyt 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stay 2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141749Z" creationid="cs-CZ_1" creationdate="20260505T141749Z">
+        <seg>Pobyt 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stay 3</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T141754Z" creationid="cs-CZ_1" creationdate="20260505T141754Z">
+        <seg>Pobyt 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Student union</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153208Z" creationid="cs-CZ_1" creationdate="20260505T153208Z">
+        <seg>Studentské spolky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Study history of graduates YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T124832Z" creationid="cs-CZ_1" creationdate="20260507T124832Z">
+        <seg>Studijní dráha absolventů a absolventek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sustainability of my university as an institution (energy, water, and waste management, buildings)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130704Z" creationid="cs-CZ_1" creationdate="20260505T130704Z">
+        <seg>Udržitelnost mé vysoké školy jako instituce (nakládání se zdroji energie, s vodou a s odpady, budovy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Teamwork and collaboration – I recognise and combine others’ competencies and attributes to achieve shared goals effectively.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T121400Z" creationid="veronika.kostelecka" creationdate="20260506T092650Z">
+        <seg>Týmová práce a spolupráce - Vnímám a využívám kompetence a přednosti ostatních, abychom účinně dosahovali společných cílů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Box 10</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>Text Box 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Box 14</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>Text Box 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Box 2</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>Text Box 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Box 4</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>Text Box 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Box 8</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>Text Box 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thank you very much for filling in the questionnaire!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T085058Z" creationdate="20220905T085058Z">
+        <seg>Velmi Vám děkujeme za vyplnění dotazníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following questions concern further, not yet reported activities in which you may have taken part during the study programme that you graduated from in YYYY/YYYY.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Následující otázky se týkají dalších, dosud neuvedených aktivit, kterých jste se během studijního programu, který jste absolvoval/a v roce yyyy/yyyy, možná zúčastnil(a).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following questions concern your digital competencies.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T101243Z" creationid="veronika.kostelecka" creationdate="20260506T101243Z">
+        <seg>Následující otázky se týkají vašich digitálních dovedností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The political system in COUNTRY allows people like me to have an influence on politics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T130721Z" creationid="cs-CZ_4" creationdate="20260506T104842Z">
+        <seg>Politický systém v České republice umožňuje lidem jako já mít vliv na politiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The scientific findings of climate research are trustworthy.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111917Z" creationid="cs-CZ_4" creationdate="20260506T111917Z">
+        <seg>Vědecké poznatky z oblasti klimatického výzkumu jsou důvěryhodné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are different ways of trying to improve things in COUNTRY or help prevent things from going wrong.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083551Z" creationdate="20220905T083551Z">
+        <seg>Existují různé způsoby, jak se pokusit zlepšit situaci v České republice nebo jak zabránit tomu, aby se situace zhoršila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are suitable solutions for tackling current environmental problems.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111939Z" creationid="cs-CZ_4" creationdate="20260506T111939Z">
+        <seg>Existují vhodná řešení, jak řešit současné environmentální problémy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This stay was not part of a joint degree.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T142204Z" creationid="cs-CZ_1" creationdate="20260505T142204Z">
+        <seg>Tento pobyt nebyl součástí společného studijního programu (joint degree)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start with, please tell us more about the study programme you graduated from in YYYY/YYYY.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Nejprve nám prosím řekněte více o studijním programu, který jste absolvoval/a v roce yyyy/yyyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To what extent do you agree or disagree with the following statements:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104739Z" creationid="cs-CZ_4" creationdate="20260506T104739Z">
+        <seg>Do jaké míry souhlasíte nebo nesouhlasíte s následujícími tvrzeními:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To what extent were questions of environmental sustainability addressed at your university?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T130324Z" creationid="cs-CZ_1" creationdate="20260505T130324Z">
+        <seg>Do jaké míry byly na vaší vysoké škole zohledněny otázky environmentální udržitelnosti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To what extent were the following modes of assessment and examination part of your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125037Z" creationid="cs-CZ_1" creationdate="20260505T125037Z">
+        <seg>Do jaké míry byly součástí Vašeho studijního programu následující způsoby hodnocení a zkoušení?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To what extent were the following modes of teaching and learning part of your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Do jaké míry byly součástí Vašeho studijního programu následující způsoby výuky a učení?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trainer in sports club</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153253Z" creationid="cs-CZ_1" creationdate="20260505T153253Z">
+        <seg>Trenér/ka ve sportovním klubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WORK HISTORY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T121420Z" creationid="cs-CZ_2" creationdate="20260505T135306Z">
+        <seg>PRACOVNÍ ZKUŠENOSTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Was the main field of study of your highest degree the same that you graduated from in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T121354Z" creationid="cs-CZ_1" creationdate="20260506T105121Z">
+        <seg>Je oborové zaměření vaší nejvyšší dosažené kvalifikace shodné s tím, které jste absolvoval/a v roce YYYY/YYYY?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Was your stay abroad supported by a mobility programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Byl váš pobyt v zahraničí podpořen programem mobility?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We list 12 competencies.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091335Z" creationid="veronika.kostelecka" creationdate="20260506T091335Z">
+        <seg>Uvádíme 12 kompetencí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Were any of your internships or work placements part of the curriculum of your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Byla některá z Vašich stáží nebo praxí součástí učebních osnov Vašeho studijního programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Were any of your paid labours related to contents of your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T152901Z" creationid="cs-CZ_1" creationdate="20260505T152901Z">
+        <seg>Souvisela kterákoli z vašich placených prací s obsahem vašeho studijního programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Were you full-time employed?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>Byl/a jste zaměstnán/a na plný úvazek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What amount of related work experience is usually required to get this (type of) job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T082242Z" creationid="cs-CZ_2" creationdate="20260507T082114Z">
+        <seg>Kolik pracovních zkušeností se obvykle vyžaduje pro získání tohoto (druhu) zaměstnání?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are your gross monthly earnings (i.e. before taxes and levies/contributions) in your additional jobs in total, including regular extra payments (e.g. paid overtime, performance or shift bonuses)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jaký je Váš hrubý měsíční příjem (tj. před zdaněním a odvody/příspěvky) ze všech dalších prací dohromady, včetně pravidelných příplatků (např. placených přesčasů, výkonnostních odměn, mzdy za noční práci, práci ve svátek, o víkendu apod.)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are your gross monthly earnings (i.e. before taxes and levies/contributions) including regular extra payments (e.g. paid overtime, performance or shift bonuses)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jaký je Váš hrubý měsíční příjem (tj. před zdaněním a odvody/příspěvky) včetně pravidelných příplatků (např. placených přesčasů, výkonnostních odměn, mzdy za noční práci, práci ve svátek, o víkendu apod.)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What field of study do you feel is most appropriate for this work?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132258Z" creationid="cs-CZ_2" creationdate="20260507T081514Z">
+        <seg>Které oborové zaměření studia považujete pro tuto práci za nejvhodnější?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is or was the main field of study of this programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaký je nebo byl obor studia tohoto programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is or was the type of qualification?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaký je nebo byl typ Vámi studovaného studijního programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is or was your parents’ or guardians’ highest level of education?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134112Z" creationid="cs-CZ_4" creationdate="20260506T134112Z">
+        <seg>Jaké je nebo bylo nejvyšší vzdělání vašich rodičů nebo pěstounů?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the highest degree you obtained?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122010Z" creationid="cs-CZ_1" creationdate="20260506T104937Z">
+        <seg>Jaký je typ vaší nejvyšší dosažené kvalifikace?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the main business activity of the organization where you work?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jaká je hlavní hospodářská činnost organizace, ve které pracujete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the regular number of working hours per week as stipulated by your employment contract (excluding overtime)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073514Z" creationid="cs-CZ_2" creationdate="20260507T073514Z">
+        <seg>Jaký je obvyklý počet pracovních hodin týdně stanovený vaší pracovní smlouvou (bez přesčasů)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your employment status in your additional job(s)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T083622Z" creationid="cs-CZ_2" creationdate="20260507T083441Z">
+        <seg>Jaký je váš pracovní status ve vašich dalších zaměstnáních?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your first / mother language?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T140759Z" creationid="cs-CZ_4" creationdate="20260506T112903Z">
+        <seg>Jaký je váš rodný jazyk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your formal enrolment status?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaká je forma Vašeho studia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your gender?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Jste:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your living situation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T114344Z" creationid="cs-CZ_4" creationdate="20260506T114311Z">
+        <seg>Jak v současnosti bydlíte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your occupation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jaká je Vaše profese?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What kind of experience abroad did you gain?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaké zkušenosti jste v zahraničí získal/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What level of education is usually required to perform this job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Jaká úroveň vzdělání se obvykle vyžaduje pro výkon této práce?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What type of qualification did you receive?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaký typ studijního programu jste absolvoval/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was the length of this (self-) employment?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T134858Z" creationid="cs-CZ_2" creationdate="20260507T100601Z">
+        <seg>Jak dlouho trvalo toto zaměstnání / tato samostatná výdělečná činnost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was the main field of study of your highest degree?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T105146Z" creationid="cs-CZ_1" creationdate="20260506T105146Z">
+        <seg>Jaké bylo oborové zaměření studia vaší nejvyšší dosažené kvalifikace?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was the main language of instruction in your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaký byl hlavní jazyk výuky v rámci Vašeho studijního programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was the name of the higher education institution?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121308Z" creationid="cs-CZ_1" creationdate="20260505T121308Z">
+        <seg>Jaký byl název vaší vysoké školy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your average final examination grade when you finished school?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaká byla vaše průměrná známka z maturitní zkoušky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your formal enrolment status at the time of graduation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaká byla forma Vašeho studia v době absolvování?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your highest school leaving qualification before you entered higher education for the first time?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Jaké bylo Vaše nejvyšší dosažené vzdělání (kromě VOŠ a terciární úrovně konzervatoří) předtím, než jste poprvé nastoupil/a na vysokou školu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your main field of study?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121329Z" creationid="cs-CZ_1" creationdate="20260505T121137Z">
+        <seg>Jaké bylo oborové zaměření tohoto programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your occupation?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>Jaká byla Vaše profese?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What was your type of contract?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>Jaký jste měl/a typ pracovní smlouvy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What were your gross monthly earnings (i.e. before taxes and levies/contributions) including regular extra payments (e.g. paid overtime, performance or shift bonuses)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T135130Z" creationdate="20220905T084441Z">
+        <seg>Jaký byly vaše hrubé měsíční výdělky (tj. před zdaněním a odvody/příspěvky) včetně pravidelných příplatků (např. placených přesčasů, výkonnostních odměn, mzdy za noční práci, práci ve svátek, o víkendu apod.)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you begin looking for this employment?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Kdy jste začal/a hledat toto zaměstnání?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you graduate from your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Kdy jste tento studijní program absolvoval/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you start working with this employer/this self-employment?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T134829Z" creationid="cs-CZ_2" creationdate="20260507T100522Z">
+        <seg>Kdy jste nastoupil/a k tomuto zaměstnavateli / zahájil/a tuto samostatnou výdělečnou činnost? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you start working with your current employer/in self-employment?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T124418Z" creationid="cs-CZ_2" creationdate="20260505T141723Z">
+        <seg>Kdy jste nastoupil/a ke svému současnému zaměstnavateli / začal/a se samostatnou výdělečnou činností?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you start your first job after graduating in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>Kdy jste nastoupil/a do své první práce po absolvování studia v roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When did you start your study programme?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>Kdy jste tento studijní program začal/a studovat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When were you born?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Kdy jste se narodil/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where did you mainly live during the study programme you graduated from in the academic year YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084835Z" creationdate="20220905T084835Z">
+        <seg>Kde jste převážně žil/a během studia studijního programu, který jste absolvoval/a v akademickém roce yyyy/yyyy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where did you work?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>Kde jste pracoval/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where do you mainly live at present?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084835Z" creationdate="20220905T084835Z">
+        <seg>Kde převážně žijete v současnosti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where do you work?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Kde pracujete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where was this higher education institution located?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121420Z" creationid="cs-CZ_1" creationdate="20260505T121420Z">
+        <seg>Kde se nacházela tato vysoká škola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where were you born?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Kde jste se narodil/a?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where were your parents or guardians born?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Kde se narodili Vaši rodiče nebo pěstouni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which of the following statements best describes your &lt;g1&gt;digital skills&lt;/g1&gt; in relation to what is required to do your job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T102110Z" creationid="veronika.kostelecka" creationdate="20260506T102110Z">
+        <seg>Které z následujících tvrzení nejlépe vystihuje vaše &lt;g1&gt;digitální dovednosti&lt;/g1&gt; ve vztahu k tomu, co je pro výkon vaší práce nezbytné?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which of the following statements best describes your &lt;g1&gt;skills regarding environmental sustainability&lt;/g1&gt; in relation to what is required to do your job?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T101014Z" creationid="veronika.kostelecka" creationdate="20260506T101014Z">
+        <seg>Které z následujících tvrzení nejlépe vystihuje vaše &lt;g1&gt;dovednosti v oblasti udržitelnosti životního prostředí&lt;/g1&gt; s ohledem na požadavky kladené na vaši pracovní pozici?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will you obtain or did you obtain any vocational degree since graduation in YYYY/YYYY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122613Z" creationid="cs-CZ_1" creationdate="20260507T122428Z">
+        <seg>Máte v plánu získat kvalifikaci z odborného vzdělávání, nebo jste ji již získal/a po absolvování v roce YYYY/YYYY? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Work climate</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pracovní atmosféra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Work history of graduates YYYY/YYYY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260505T135636Z" creationid="cs-CZ_2" creationdate="20260505T135400Z">
+        <seg>Pracovní zkušenosti absolventů YYYY/YYYY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working conditions</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pracovní podmínky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working hours</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Pracovní doba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working in family business (unpaid)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T133138Z" creationid="cs-CZ_2" creationdate="20260507T085242Z">
+        <seg>Práce v rodinném podniku (neplacená)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Would you be ready to participate in a future survey and thus help improving higher education in COUNTRY?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T085058Z" creationdate="20220905T085058Z">
+        <seg>Jste ochotný/á se tohoto následného dotazníkového šetření zúčastnit a přispět tak ke zlepšování vysokoškolského vzdělávání v České republice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written assessments</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T125424Z" creationid="cs-CZ_1" creationdate="20260505T125359Z">
+        <seg>Písemné zkoušení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Year of birth</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>Rok narození</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can report on up to three work experiences you had between graduation in YYYY/YYYY and now.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100125Z" creationid="cs-CZ_2" creationdate="20260507T100125Z">
+        <seg>Můžete uvést až tři pracovní zkušenosti, které jste získal/a v období od ukončení studia v letech YYYY/YYYY po současnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You reported to be self-employed; did you start your company yourself (probably involving co-entrepreneurs)?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T133517Z" creationid="cs-CZ_2" creationdate="20260507T092236Z">
+        <seg>Uvedl/a jste, že jste osoba samostatně výdělečně činná; založil/a jste firmu sám/sama (případně se zapojením společníků)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You reported to have more than one job; in the following we would like to know a bit more about your additional jobs.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>Uvedl/a jste, že máte více než jednu práci; v následujícím textu bychom se o Vaší další práci / Vašich dalších pracích rádi dozvěděli více.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your e-mail address will be kept separate from your survey responses and will be treated confidentially.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T085058Z" creationdate="20220905T085058Z">
+        <seg>S Vaší e-mailovou adresou budeme zacházet jako s důvěrnou informací a bude uložena odděleně od odpovědí na dotazník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Youth work</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T153243Z" creationid="cs-CZ_1" creationdate="20260505T153243Z">
+        <seg>Práce s mládeží</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[...] hours per week</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083719Z" creationdate="20220905T083719Z">
+        <seg>[...] hodin týdně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[A1 Course of Study]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T114642Z" creationid="cs-CZ_1" creationdate="20260505T075615Z">
+        <seg>[A1 Průběh studia]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[A2 International Mobility and Other Activities during Time of Studying]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T133828Z" creationid="cs-CZ_1" creationdate="20260505T133828Z">
+        <seg>[A2 Zahraniční mobilita a další aktivity během studia]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[A3 Previous Educational and Working Career]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T075628Z" creationid="cs-CZ_1" creationdate="20260506T075628Z">
+        <seg>[A3 Předchozí vzdělávací a pracovní dráha] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[A3.5 Education History after Graduation]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T140514Z" creationid="cs-CZ_1" creationdate="20260505T140514Z">
+        <seg>[A3.5 Vzdělávací dráha po absolvování]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[A3.6 Vocational Education and Further Education after Graduation]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260507T122153Z" creationid="cs-CZ_1" creationdate="20260507T122153Z">
+        <seg>[A3.6 Odborné a další vzdělávání po absolvování] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B1 Current Situation]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260505T135732Z" creationid="cs-CZ_2" creationdate="20260505T135732Z">
+        <seg>[B1 Současná situace]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B10 Previous Work Experiences]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100027Z" creationid="cs-CZ_2" creationdate="20260507T100027Z">
+        <seg>[B10 Předchozí pracovní zkušenosti]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B2 Job Characteristics]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260505T142444Z" creationid="cs-CZ_2" creationdate="20260505T142330Z">
+        <seg>[B2 Charakteristika pracovní pozice]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B3 Match of Job and Education]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132532Z" creationid="cs-CZ_2" creationdate="20260507T075707Z">
+        <seg>[B3 Soulad mezi prací a vzděláním]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B4 Job Satisfaction]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T082429Z" creationid="cs-CZ_2" creationdate="20260507T082429Z">
+        <seg>[B4 Spokojenost se zaměstnáním]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B5 Additional Jobs]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T092327Z" creationid="cs-CZ_2" creationdate="20260507T092327Z">
+        <seg>[B5 Další zaměstnání]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B7 Transition from Study to Work]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T092526Z" creationid="cs-CZ_2" creationdate="20260507T092526Z">
+        <seg>[B7 Přechod ze studia do zaměstnání]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[B8 Length of Employment]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T095229Z" creationid="cs-CZ_2" creationdate="20260507T095229Z">
+        <seg>[B8 Délka zaměstnání]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[C1 Generic competencies]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T095354Z" creationid="veronika.kostelecka" creationdate="20260506T095354Z">
+        <seg>[C1 Obecné kompetence]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[C2 Green competencies]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100126Z" creationid="veronika.kostelecka" creationdate="20260506T100126Z">
+        <seg>[C2 Zelené kompetence]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[C3 Digital Competencies]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T101220Z" creationid="veronika.kostelecka" creationdate="20260506T101220Z">
+        <seg>[C3 Digitální kompetence]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[D1 Place of Residence]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104423Z" creationid="cs-CZ_4" creationdate="20260506T104423Z">
+        <seg>[D1 Místo bydliště]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[D2 Reasons for Mobility]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103706Z" creationid="cs-CZ_4" creationdate="20260506T103706Z">
+        <seg>[D2 Důvody pro mobilitu]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[F2 Political Attitudes and Political Participation]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104715Z" creationid="cs-CZ_4" creationdate="20260506T104715Z">
+        <seg>[F2 Politické postoje a politická participace]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[F3 Attitudes towards Climate Change]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111248Z" creationid="cs-CZ_4" creationdate="20260506T111248Z">
+        <seg>[F3 Postoje ke klimatickým změnám]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[…] employer/employers</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>[...] zaměstnavatele/zaměstnavatelů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[…] month/months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100621Z" creationid="cs-CZ_2" creationdate="20260507T100621Z">
+        <seg>[...] měsíce/měsíců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a completely different field</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132417Z" creationid="cs-CZ_2" creationdate="20260507T081654Z">
+        <seg>úplně jiné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>about [...] &lt;g1&gt;[CURRENCY]&lt;/g1&gt; per month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T074205Z" creationid="cs-CZ_2" creationdate="20260507T074205Z">
+        <seg>asi [...] &lt;g1&gt;[CURRENCY]&lt;/g1&gt; měsíčně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>about […] &lt;g1&gt;[CURRENCY]&lt;/g1&gt; per month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T090714Z" creationid="cs-CZ_2" creationdate="20260507T090714Z">
+        <seg>asi [...] &lt;g1&gt;[CURRENCY]&lt;/g1&gt; měsíčně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>about half of them</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>asi polovina z nich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>about once a month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100401Z" creationid="veronika.kostelecka" creationdate="20260506T091138Z">
+        <seg>přibližně jednou za měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>about once a week</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T100349Z" creationid="veronika.kostelecka" creationdate="20260506T091130Z">
+        <seg>přibližně jednou za týden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>abroad, namely in […]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>v zahraničí, a to [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all of them</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>všechny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>another place abroad, namely […]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084835Z" creationdate="20220905T084835Z">
+        <seg>jiné místo v zahraničí, a to [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>approximately […] month/months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>přibližně [...] měsíce/měsíců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>daily</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091201Z" creationid="veronika.kostelecka" creationdate="20260506T091201Z">
+        <seg>denně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>does not apply at all</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103752Z" creationid="cs-CZ_4" creationdate="20260506T103752Z">
+        <seg>vůbec neovlivňují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>don’t know</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260506T095913Z" creationid="cs-CZ_1" creationdate="20260506T095913Z">
+        <seg>Nevím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exclusively own field</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132346Z" creationid="cs-CZ_2" creationdate="20260507T081611Z">
+        <seg>výlučně to, které mám vystudované</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>female</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>žena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fixed-term</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T100759Z" creationid="cs-CZ_2" creationdate="20260507T100759Z">
+        <seg>na dobu určitou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>full-time student</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121731Z" creationid="cs-CZ_1" creationdate="20260505T121731Z">
+        <seg>Prezenční</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fully agree</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104749Z" creationid="cs-CZ_4" creationdate="20260506T104749Z">
+        <seg>zcela souhlasím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fully applies</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T103811Z" creationid="cs-CZ_4" creationdate="20260506T103811Z">
+        <seg>zcela ovlivňují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fully disagree</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T104755Z" creationid="cs-CZ_4" creationdate="20260506T104743Z">
+        <seg>zcela nesouhlasím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in &lt;g1&gt;[LOCATION]&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121654Z" creationid="cs-CZ_1" creationdate="20260505T121452Z">
+        <seg>V / na &lt;g1&gt;[LOCATION]&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in COUNTRY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260505T142154Z" creationid="cs-CZ_2" creationdate="20260505T142154Z">
+        <seg>v Česku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in another country, namely […]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>v jiné zemi, a to [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>internship or work placement</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>stáž nebo praxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>language course</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>jazykový kurz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>less than 1 year</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>méně než 1 rok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>less than once a month</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091117Z" creationid="veronika.kostelecka" creationdate="20260506T091117Z">
+        <seg>méně než jednou za měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lower than higher education</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>středoškolské vzdělání s maturitou a nižší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>male</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>muž</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>more than 24 months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>více než 24 měsíců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>more than 60</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>více než 60 měsíců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>never</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="veronika.kostelecka" changedate="20260506T091144Z" creationid="veronika.kostelecka" creationdate="20260506T091144Z">
+        <seg>nikdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083631Z">
+        <seg>ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no particular field</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132513Z" creationid="cs-CZ_2" creationdate="20260507T081715Z">
+        <seg>žádné konkrétní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, I am still enrolled</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ne, studijní program stále studuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, I left without a degree</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ne, studium jsem ukončil/a bez získání titulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, I work part-time</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>ne, pracuji na částečný úvazek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, I worked part-time</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T135043Z" creationdate="20220905T084441Z">
+        <seg>ne, pracoval/a jsem na částečný úvazek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, but I did unpaid work in family business</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>ne, ale dělal/a jsem neplacenou práci v rodinném podniku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no, in another country, namely […]</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ne, v jiné zemi, a to [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>non-binary or other</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084910Z" creationdate="20220905T084910Z">
+        <seg>nebinární nebo jiná možnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>none</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T082207Z" creationid="cs-CZ_2" creationdate="20260507T082207Z">
+        <seg>žádné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>none of them</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>žádný z nich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not at all</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083551Z" creationdate="20220905T083631Z">
+        <seg>vůbec ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not at all confident</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083551Z" creationdate="20220905T083551Z">
+        <seg>vůbec ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not very confident</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T130934Z" creationid="cs-CZ_4" creationdate="20260506T111149Z">
+        <seg>velmi si nevěřím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>often</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110504Z" creationid="cs-CZ_4" creationdate="20260506T110504Z">
+        <seg>často</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other place in COUNTRY, more specifically in […] (please enter the postal code&lt;x1/&gt; here)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260507T125021Z" creationid="veronika.kostelecka" creationdate="20260506T102910Z">
+        <seg>na jiném místě v České republice, konkrétně v […]  (prosíme zde uveďte PSČ&lt;x1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>own or a related field</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T132406Z" creationid="cs-CZ_2" creationdate="20260507T081644Z">
+        <seg>to, které mám vystudované, nebo podobné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>part-time student</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T121847Z" creationid="cs-CZ_1" creationdate="20260505T121847Z">
+        <seg>Kombinovaná nebo distanční</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rarely</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110458Z" creationid="cs-CZ_4" creationdate="20260506T110458Z">
+        <seg>zřídka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>same place as during my study programme</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084835Z" creationdate="20220905T084835Z">
+        <seg>ve stejném místě jako během studia studijního programu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>same place as my higher education institution</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084835Z" creationdate="20220905T084835Z">
+        <seg>ve stejném místě, kde se nacházela má vysoká škola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>short-cycle higher education</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T075853Z" creationid="cs-CZ_2" creationdate="20260507T075853Z">
+        <seg>vyšší odborné vzdělání (DiS.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sometimes</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T110501Z" creationid="cs-CZ_4" creationdate="20260506T110501Z">
+        <seg>někdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>somewhat confident</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T111207Z" creationid="cs-CZ_4" creationdate="20260506T111207Z">
+        <seg>docela si věřím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>study abroad</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>studium v zahraničí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>summer school, workshop, or similar activity</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>letní škola, workshop nebo podobná aktivita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to a very high extent</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084746Z" creationdate="20220905T083631Z">
+        <seg>do velmi vysoké míry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unlimited term</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>na dobu neurčitou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>usually […] hour/hours per week</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>obvykle [...] hodin týdně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>usually […] hours per week</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T084441Z">
+        <seg>obvykle [...] hodin týdně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>very confident</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083551Z" creationdate="20220905T083551Z">
+        <seg>velmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>very satisfied</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083631Z">
+        <seg>velmi spokojen/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>very unsatisfied</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083631Z">
+        <seg>velmi nespokojen/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083631Z">
+        <seg>ano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, 15 ECTS points or more</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ano, 15 nebo více bodů ECTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, I have more than one job</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084441Z" creationdate="20220905T083719Z">
+        <seg>ano, mám více než jednu práci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, about […] &lt;g1&gt;[CURRENCY]&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T075210Z" creationid="cs-CZ_2" creationdate="20260507T075210Z">
+        <seg>ano, asi [...] &lt;g1&gt;[CURRENCY]&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, by a national programme</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ano, z národního programu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, by an EU programme (e.g. Erasmus)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ano, z programu EU (např. Erasmus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, by another programme</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ano, z jiného programu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, for a total of &lt;g1&gt;[NUMBER]&lt;/g1&gt; month/months</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_4" changedate="20260506T134016Z" creationid="cs-CZ_4" creationdate="20260506T134016Z">
+        <seg>ano, celkově na &lt;g1&gt;[NUMBER]&lt;/g1&gt; měsíc/ů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, less than 15 ECTS points</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T083631Z" creationdate="20220905T083631Z">
+        <seg>ano, méně než 15 bodů ECTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, namely in the following languages (multiple answers possible):</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_1" changedate="20260505T124256Z" creationid="cs-CZ_1" creationdate="20260505T124256Z">
+        <seg>Ano, v těchto jazycích (možnost více odpovědí):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, on at least half of the days I work</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073608Z" creationid="cs-CZ_2" creationdate="20260507T073608Z">
+        <seg>ano, alespoň polovinu pracovních dní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, on every day I work</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073543Z" creationid="cs-CZ_2" creationdate="20260507T073543Z">
+        <seg>ano, každý pracovní den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, on fewer than half of the days I work</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="cs-CZ_2" changedate="20260507T073618Z" creationid="cs-CZ_2" creationdate="20260507T073618Z">
+        <seg>ano, méně než polovinu pracovních dní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, self-employed with paid employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>ano, samostatnou výdělečnou činnost nebo podnikání s placenými zaměstnanci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yes, self-employed without paid employees</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changedate="20220905T084621Z" creationdate="20220905T083719Z">
+        <seg>ano, samostatnou výdělečnou činnost nebo podnikání bez placených zaměstnanců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>​&lt;x1/&gt;&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>​&lt;x1/&gt;&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>​&lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>​&lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>​&lt;x2/&gt;&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>​&lt;x2/&gt;&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>​&lt;x2/&gt;&lt;x3/&gt;&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ">
+        <seg>​&lt;x2/&gt;&lt;x3/&gt;&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
